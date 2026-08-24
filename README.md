@@ -1,6 +1,10 @@
 ## LUCAS LIMA DA SILVA
 Desenvolvedor C# e Asp.Net
 
+Desenvolvedor .NET
+Curso Superior: ANALISE E DESENVOLVIMENTO DE SISTEMA
+Curso Técnica: AUTOMAÇÃO INDUSTRIAL
+
 <!--
 **lucaslima343/lucaslima343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
